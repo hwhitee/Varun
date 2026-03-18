@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 
 ## 📫 Let's Connect
 - [LinkedIn](#)  
-- [Email](msvarun179@gmail.com)  
+- [Email](mailto:msvarun179@gmail.com)  
 
 ---
 
